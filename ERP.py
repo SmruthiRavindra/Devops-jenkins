@@ -1,1 +1,2 @@
-rpitn("smruthi Ravindra")
+print("smruthi Ravindra")
+print("hi")
